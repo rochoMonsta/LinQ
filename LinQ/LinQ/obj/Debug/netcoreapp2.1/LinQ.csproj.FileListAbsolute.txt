@@ -1,0 +1,10 @@
+/Users/upgrade/Desktop/LinQ/LinQ/bin/Debug/netcoreapp2.1/LinQ.deps.json
+/Users/upgrade/Desktop/LinQ/LinQ/bin/Debug/netcoreapp2.1/LinQ.runtimeconfig.json
+/Users/upgrade/Desktop/LinQ/LinQ/bin/Debug/netcoreapp2.1/LinQ.runtimeconfig.dev.json
+/Users/upgrade/Desktop/LinQ/LinQ/bin/Debug/netcoreapp2.1/LinQ.dll
+/Users/upgrade/Desktop/LinQ/LinQ/bin/Debug/netcoreapp2.1/LinQ.pdb
+/Users/upgrade/Desktop/LinQ/LinQ/obj/Debug/netcoreapp2.1/LinQ.csprojAssemblyReference.cache
+/Users/upgrade/Desktop/LinQ/LinQ/obj/Debug/netcoreapp2.1/LinQ.AssemblyInfoInputs.cache
+/Users/upgrade/Desktop/LinQ/LinQ/obj/Debug/netcoreapp2.1/LinQ.AssemblyInfo.cs
+/Users/upgrade/Desktop/LinQ/LinQ/obj/Debug/netcoreapp2.1/LinQ.dll
+/Users/upgrade/Desktop/LinQ/LinQ/obj/Debug/netcoreapp2.1/LinQ.pdb

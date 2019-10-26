@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3767C72F-14DD-4831-8351-1F92E89DEEBC}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinQ/Program.cs">
+    <Files>
+      <File FileName="LinQ/Program.cs" Line="72" Column="51" />
+      <File FileName="LinQ/Product.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinQ" expanded="True">
+            <Node name="LinQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
